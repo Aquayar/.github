@@ -10,7 +10,8 @@ Our mission at Aquayar is to ensure that every household in Enugu has access to 
 
 Our mobile app is built using the following technologies:
 
-- Flutter
+- Flutter (Customer App)
+- Reactnative (Driver App)
 - Firebase
 - Railway
 - NodeJS & ExpressJS
